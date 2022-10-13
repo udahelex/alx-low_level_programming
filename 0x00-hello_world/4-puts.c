@@ -1,4 +1,4 @@
-i#include<studio.h>
+#include<studio.h>
 /*
  * main entry
  * return 0 ;
